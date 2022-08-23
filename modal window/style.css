@@ -1,5 +1,3 @@
-
-
 .layer {
   position: fixed;
   left: 0px;
@@ -39,6 +37,7 @@ h2 {
   color: #3D3D3D;
   text-align: left;
 }
+
 input {
   font-family: 'Roboto', sans-serif;
   margin-right: 30px;
@@ -102,14 +101,11 @@ input:last-child {
   margin-right: 0px;
 }
 
-
-
 .vec {
   background-color: rgba(0, 0, 0, 0);
   margin: 0px;
   padding: 0px;
   position:absolute;
-
   direction: none;
   border: none;
   right:0px;
